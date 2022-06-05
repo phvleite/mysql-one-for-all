@@ -137,7 +137,7 @@ INSERT INTO cancoes (cancao, duracao_segundos, id_album) VALUES
 ("He's Trouble", '138', 9),
 ('I Heard I Want To Bo Alone', '120', 9),
 ('I Ride Alone', '151', 9),
-('Hone', '79', 10),
+('Honey', '79', 10),
 ('You Cheated On M', '95', 10),
 ("Wouldn't It Be Nice", '213', 10),
 ('Baby', '136', 10),
