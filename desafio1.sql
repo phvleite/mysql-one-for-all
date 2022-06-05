@@ -105,7 +105,7 @@ INSERT INTO cancoes (cancao, duracao_segundos, id_album) VALUES
 ('Soul For Us', '200', 1),
 ('Reflections Of Magic', '163', 1),
 ('Dance With Her Own', '116', 1),
-('Troubles Of My Inner Fire', '202', 2),
+('Troubles Of My Inner Fire', '203', 2),
 ('Time Fireworks', '152', 2),
 ('Magic Circus', '105', 3),
 ('Honey, So Do I', '207', 3),
